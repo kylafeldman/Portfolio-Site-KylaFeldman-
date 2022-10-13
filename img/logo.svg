@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 59">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 6px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Poppins-Regular, Poppins;
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        font-size: 9px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="29.56" cy="29.5" fx="29.56" fy="29.5" r="29.91" gradientTransform="translate(1.11 1.22) scale(.96)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7931e"/>
+      <stop offset="1" stop-color="#fbb03b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect class="cls-3" x=".77" y=".83" width="57.45" height="57.45"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <text class="cls-2" transform="translate(3.88 11.14)"><tspan x="0" y="0">Kyla </tspan><tspan x="0" y="10.8">Feldman</tspan></text>
+    <text class="cls-1" transform="translate(18.05 53.94)"><tspan x="0" y="0">UI/UX Design</tspan></text>
+  </g>
+</svg>

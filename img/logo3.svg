@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.98 23.85">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: NimbusSan-Reg, 'Nimbus Sans';
+        font-size: 4px;
+      }
+
+      .cls-2 {
+        letter-spacing: .02em;
+      }
+
+      .cls-3 {
+        letter-spacing: .03em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: .03em;
+      }
+
+      .cls-7 {
+        font-family: NimbusSan-RegIta, 'Nimbus Sans';
+        font-size: 9px;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-7" transform="translate(3.02 10.68)"><tspan class="cls-3" x="0" y="0">K</tspan><tspan x="5.68" y="0">Y</tspan><tspan class="cls-2" x="10.48" y="0">L</tspan><tspan x="15.55" y="0">A FELD</tspan><tspan class="cls-5" x="43.89" y="0">M</tspan><tspan x="50.91" y="0">AN</tspan></text>
+  <text class="cls-1" transform="translate(4.03 17.98)"><tspan x="0" y="0">UI</tspan><tspan class="cls-6" x="3.73" y="0">/</tspan><tspan class="cls-9" x="5.36" y="0">U</tspan><tspan class="cls-8" x="8.08" y="0">X </tspan><tspan class="cls-4" x="11.64" y="0">D</tspan><tspan x="14.31" y="0">esign</tspan></text>
+</svg>
