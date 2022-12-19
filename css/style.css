@@ -75,7 +75,7 @@ main {
 
 /*nav*/
 a {
-  color: #ff7f50;
+  color: #f64200;
   text-decoration: none;
   font-weight: 700;
   transition-duration: 0.6s;
@@ -89,12 +89,12 @@ a:focus {
 
 a:visited,
 a:focus {
-  color: #ff7f50;
+  color: #f64200;
 }
 
 a:active,
 a:focus {
-  color: #ff7f50;
+  color: #f64200;
 }
 
 nav>ul {
@@ -113,7 +113,7 @@ nav>ul>li>a {
   padding: 0 15px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #ff7f50;
+  color: #f64200;
   display: inline-block;
   width: 100%;
 }
@@ -141,7 +141,7 @@ nav>ul>li>a {
 .navtoggle.responsive li {
   display: block;
   padding: 10px 0;
-  border-top: 1px solid #ff7f50;
+  border-top: 1px solid #f64200;
 }
 
 .navtoggle.responsive li:last-child {
@@ -177,12 +177,12 @@ nav>ul>li>a {
 
 #work .row {
   padding-bottom: 25px;
-  border-bottom: 1px solid #ff7f50;
+  border-bottom: 1px solid #f64200;
 }
 
 #work .row {
   padding-bottom: 25px;
-  border-bottom: 1px solid #ff7f50;
+  border-bottom: 1px solid #f64200;
 }
 
 #contact {
@@ -219,7 +219,7 @@ nav>ul>li>a {
 }
 
 .email {
-  color: #ff7f50;
+  color: #f64200;
   position: relative;
   text-decoration: none;
   transition: color .4s ease-out;
@@ -238,7 +238,7 @@ nav>ul>li>a {
 
 .email:after {
   border-radius: 1em;
-  border-top: .1em solid #ff7f50;
+  border-top: .1em solid #f64200;
   content: "";
   position: absolute;
   right: 100%;
@@ -259,7 +259,7 @@ nav>ul>li>a {
 #workcontent h3 {
   text-align: center;
   font-weight: 700;
-  color: #ff7f50;
+  color: #f64200;
 }
 
 #workcontent h4 {
@@ -401,8 +401,8 @@ nav>ul>li>a {
 
 .resumebutton, .resumebutton:visited {
   display: inline-block;
-  background-color: #ff7f50;
-  border: 2px solid #ff7f50;
+  background-color: #f64200;
+  border: 2px solid #f64200;
   color: white;
   font-size: 16px;
   text-decoration: none;
@@ -422,8 +422,8 @@ nav>ul>li>a {
 /*View Project buttons*/
 .button, .button:visited {
   display: inline-block;
-  background-color: #ff7f50;
-  border: 2px solid #ff7f50;
+  background-color: #f64200;
+  border: 2px solid #f64200;
   color: white;
   font-size: 14px;
   text-decoration: none;
@@ -436,14 +436,14 @@ nav>ul>li>a {
 
 .button:after {
   background-color: white;
-  border: 2px solid #ff7f50;
-  color: #ff7f50;
+  border: 2px solid #f64200;
+  color: #f64200;
 }
 
 .button:hover {
   background-color: white;
-  border: 2px solid #ff7f50;
-  color: #ff7f50;
+  border: 2px solid #f64200;
+  color: #f64200;
 }
 
 .button:hover:after {
@@ -466,7 +466,7 @@ nav>ul>li>a {
   /* Remove borders */
   outline: none;
   /* Remove outline */
-  background-color: #ff7f50;
+  background-color: #f64200;
   /* Set a background color */
   color: white;
   /* Text color */
